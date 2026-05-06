@@ -1,0 +1,17 @@
+# Local-only planning, drafts, GCC artifacts — never push to GitHub
+planning/
+.GCC/
+*.draft.md
+*.local.md
+
+# OS / editor cruft
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+
+# Image processing intermediates
+*_preview.png
+*.tmp.png
