@@ -35,7 +35,7 @@ Intersection of growth strategy, ontology, measurement, and AI tooling.
 
 Previously employee #1 at **Common Thread Collective's Accelerator Program**, full growth servicing, financial modelling, internal efficiency systems, and product.
 
-Now building **agentic commerce services** — the systems that structured and unstructured data into operationalized growth.
+Now building **agentic commerce services** — the systems that turn structured and unstructured data into operationalized growth.
 
 ---
 
@@ -45,8 +45,8 @@ Now building **agentic commerce services** — the systems that structured and u
 
 | Project | Stack | Status | What it does |
 |:--------|:-----:|:------:|:-------------|
-| [**Growth-OS**](https://github.com/Jack-7xyz/growth-os) | ![Python](https://img.shields.io/badge/-Py-2b2b2b?style=flat-square&logo=python&logoColor=3776AB) | ![Status](https://img.shields.io/badge/status-early-orange?style=flat-square) | Lightweight BI-Frontend for agentic dashboards support Natural Language to SQL translation, and medallion transforms from raw data sources. |
-| [**Ontology**](https://github.com/Jack-7xyz/ontology) | ![Python](https://img.shields.io/badge/-Py-2b2b2b?style=flat-square&logo=python&logoColor=3776AB) | ![Status](https://img.shields.io/badge/status-early-orange?style=flat-square) | Semantic layer ontology case studies examples across varied industries - with operational drill-downs and next step checklists. |
+| [**Growth-OS**](https://github.com/Jack-7xyz/growth-os) | ![Python](https://img.shields.io/badge/-Py-2b2b2b?style=flat-square&logo=python&logoColor=3776AB) | ![Status](https://img.shields.io/badge/status-early-orange?style=flat-square) | Lightweight BI-Frontend for agentic dashboards supporting Natural Language to SQL translation, and medallion transforms from raw data sources. |
+| [**Ontology**](https://github.com/Jack-7xyz/ontology) | ![Python](https://img.shields.io/badge/-Py-2b2b2b?style=flat-square&logo=python&logoColor=3776AB) | ![Status](https://img.shields.io/badge/status-early-orange?style=flat-square) | Semantic layer ontology case study examples across varied industries - with operational drill-downs and next step checklists. |
 | [**Forecasting**](https://github.com/Jack-7xyz/forecasting) | ![Python](https://img.shields.io/badge/-Py-2b2b2b?style=flat-square&logo=python&logoColor=3776AB) | ![Status](https://img.shields.io/badge/status-early-orange?style=flat-square) | Multi-path forecasting engine across spend sensitivity and LTV Cohort Modelling — incrementality-aware, qualitative-marketing-moment aware, decision-grade. |
 
 ---
@@ -55,7 +55,7 @@ Now building **agentic commerce services** — the systems that structured and u
 
 - **Curiosity & humility** as the ultimate values.
 - **Software and service are a spectrum, not binaries.** Service compensates with labor where systems engineering is not yet leveraged. The work is moving the line.
-- **Operator judgment compounds when it gets a substrate.** Most growth knowledge dies in slack threads. Systems are how it survives. Context brains are the future of industry. Verifiability can be manifested with appopriate technology resolution.
+- **Operator judgment compounds when it gets a substrate.** Most growth knowledge dies in slack threads. Systems are how it survives. Context brains are the future of industry. Verifiability can be manifested with appropriate technology resolution.
 
 ---
 
