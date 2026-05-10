@@ -46,7 +46,7 @@ Now building **agentic commerce services** — the systems that turn structured 
 | Project | Stack | Status | What it does |
 |:--------|:-----:|:------:|:-------------|
 | [**Growth-OS**](https://github.com/Jack-7xyz/growth-os) | ![Python](https://img.shields.io/badge/-Py-2b2b2b?style=flat-square&logo=python&logoColor=3776AB) | ![Status](https://img.shields.io/badge/status-early-orange?style=flat-square) | Lightweight BI-Frontend for agentic dashboards supporting Natural Language to SQL translation, and medallion transforms from raw data sources. |
-| [**Ontology**](https://github.com/Jack-7xyz/ontology) | ![Python](https://img.shields.io/badge/-Py-2b2b2b?style=flat-square&logo=python&logoColor=3776AB) | ![Status](https://img.shields.io/badge/status-early-orange?style=flat-square) | Semantic layer ontology case study examples across varied industries - with operational drill-downs and next step checklists. |
+| [**Ontology**](https://github.com/Jack-7xyz/ontology) | ![React](https://img.shields.io/badge/-React-2b2b2b?style=flat-square&logo=react&logoColor=61DAFB) ![FastAPI](https://img.shields.io/badge/-API-2b2b2b?style=flat-square&logo=fastapi&logoColor=009688) | ![Status](https://img.shields.io/badge/status-live-2ea043?style=flat-square) | Public ontology workspace for operational case studies: source data, staging transforms, BI surfaces, diagnostic mechanics, and assistant workflows. [Live demo](https://ontology-smoky.vercel.app). |
 | [**Forecasting**](https://github.com/Jack-7xyz/forecasting) | ![Python](https://img.shields.io/badge/-Py-2b2b2b?style=flat-square&logo=python&logoColor=3776AB) | ![Status](https://img.shields.io/badge/status-early-orange?style=flat-square) | Multi-path forecasting engine across spend sensitivity and LTV Cohort Modelling — incrementality-aware, qualitative-marketing-moment aware, decision-grade. |
 
 ---
@@ -66,7 +66,9 @@ Now building **agentic commerce services** — the systems that turn structured 
 <table>
 <tr>
 <td align="center" width="33%">
-<sub><em>Coming soon</em></sub>
+<a href="https://ontology-smoky.vercel.app"><strong>Ontology</strong></a><br />
+<sub>Retail ontology case study with lineage, BI, mechanics, tasks, and Ask Ontology.</sub><br />
+<sub><a href="https://github.com/Jack-7xyz/ontology">Source</a></sub>
 </td>
 <td align="center" width="33%">
 <sub><em>Coming soon</em></sub>
