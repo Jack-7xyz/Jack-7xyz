@@ -4,7 +4,7 @@
 
 <img src="assets/jack_headshot.png" alt="Jack King" width="180" />
 
-**Scotland** · Ex-CTC growth strategy · Building agentic commerce services
+**Scotland** · Building agentic commerce services
 
 ![C](https://img.shields.io/badge/-C-2b2b2b?style=flat-square&logo=c&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/-Python-2b2b2b?style=flat-square&logo=python&logoColor=3776AB)
@@ -33,9 +33,7 @@
 
 Intersection of growth strategy, ontology, measurement, and AI tooling.
 
-Previously employee #1 at **Common Thread Collective's Accelerator Program**, full growth servicing, financial modelling, internal efficiency systems, and product.
-
-Now building **agentic commerce services** — the systems that turn structured and unstructured data into operationalized growth.
+Building **software and agentic workflows** at Prescient AI
 
 ---
 
