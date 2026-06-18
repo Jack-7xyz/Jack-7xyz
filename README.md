@@ -1,4 +1,4 @@
-<div align="left">
+<div align="centre">
 
 # Jack King
 
